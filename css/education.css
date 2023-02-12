@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #191919;
+}
+.education{
+    width: 100;
+    padding: 78px 0px;
+}
+.education-text{
+    width: 550px;
+}
+.main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.education-text h1{
+    color: white;
+    font-size: 80px;
+    text-transform: capitalize;
+    margin-bottom: 50px;
+}
+.education-text p{
+    color: #fcfc;
+    letter-spacing: 1px;
+    line-height: 20px;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
